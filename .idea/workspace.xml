@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f74f75b1-de01-49b9-b1f9-910dfcd02f49" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f74f75b1-de01-49b9-b1f9-910dfcd02f49" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "nhanh1",
+    "git-widget-placeholder": "nhanh2",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/TTS JAVA JVB/Project/testgit/excercise",
     "node.js.detected.package.eslint": "true",
@@ -71,7 +69,7 @@
       <option name="presentableId" value="Default" />
       <updated>1730566160853</updated>
       <workItem from="1730566161903" duration="1915000" />
-      <workItem from="1730612712160" duration="1339000" />
+      <workItem from="1730612712160" duration="1829000" />
     </task>
     <servers />
   </component>
@@ -89,7 +87,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="testMerge" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
